@@ -1,0 +1,23 @@
+#incude<stdio.h>
+#include<conio.h>
+void main()
+{
+int n,x,inr;
+printf("enter the x valve");
+scanf("%d",&x");
+case x
+{
+case1:x=100;
+inr=0
+printf("%d",inr");
+break;
+case2:x =10;
+inr=(90/100)*x;
+printf("%d",inr);
+break;
+case3: x =10;
+inr=inr+(90/100)*x;
+printf("%d',inr);
+break;
+}
+}
